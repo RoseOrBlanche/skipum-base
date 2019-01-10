@@ -1,0 +1,16 @@
+{
+	"name": "@skipum/base-common",
+	"description": "Skipum Common Objects",
+	"version": "1.0.0",
+	"devDependencies": {
+		"@sap/cds": "3.0.0"
+	},
+	"dependencies": {
+		"@sap/cds": "3.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RoseOrBlanche/Skipum.git"
+	},
+	"private": true
+}
